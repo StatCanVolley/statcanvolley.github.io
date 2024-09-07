@@ -177,7 +177,7 @@ LI.portfolio
 }
 .menubkg
 {
-    BACKGROUND-IMAGE: url(../images/volleyball-main.jpg);
+    BACKGROUND-IMAGE: url(/docs/assets/images/volleyball-main.jpg);
     BACKGROUND-POSITION: right center;
     BACKGROUND-REPEAT: repeat-y
 }
