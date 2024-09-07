@@ -1,0 +1,248 @@
+BODY
+{
+    BACKGROUND: white;
+    COLOR: #000000;
+    FONT-FAMILY: arial;
+    FONT-SIZE: x-small;
+    FONT-STYLE: normal;
+    FONT-WEIGHT: normal
+}
+OL
+{
+    COLOR: #000000;
+    FONT-SIZE: x-small
+}
+UL
+{
+    COLOR: #000000;
+    FONT-SIZE: x-small
+}
+DIR
+{
+    COLOR: #000000;
+    FONT-SIZE: x-small
+}
+A:link
+{
+    COLOR: #4b68a6;
+    TEXT-DECORATION: none
+}
+A:visited
+{
+    COLOR: #226789;
+    TEXT-DECORATION: none
+}
+A:active
+{
+    COLOR: #cc3300;
+    TEXT-DECORATION: underline
+}
+A:hover
+{
+    COLOR: #90b3c4;
+    TEXT-DECORATION: underline
+}
+H1
+{
+    COLOR: #4b68a6;
+    FONT-SIZE: medium;
+    FONT-STYLE: normal;
+    FONT-WEIGHT: normal
+}
+H2
+{
+    COLOR: #000000;
+    FONT-SIZE: small;
+    FONT-STYLE: normal;
+    FONT-WEIGHT: bold
+}
+H3
+{
+    COLOR: #aacfe2;
+    FONT-SIZE: small;
+    FONT-STYLE: normal;
+    FONT-WEIGHT: bold
+}
+H4
+{
+    COLOR: #4b68a6;
+    FONT-SIZE: x-small;
+    FONT-STYLE: normal;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: underline
+}
+H5
+{
+    COLOR: #aacfe2;
+    FONT-SIZE: x-small;
+    FONT-STYLE: normal;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: underline
+}
+TABLE.style1
+{
+    BORDER-BOTTOM: #a7dcca 1px solid;
+    BORDER-LEFT: #eef8f5 1px solid;
+    BORDER-RIGHT: #a7dcca 1px solid;
+    BORDER-TOP: #eef8f5 1px solid
+}
+TD.style1
+{
+    BACKGROUND-COLOR: #f1fbf8;
+    BORDER-BOTTOM: #eef8f5 1px solid;
+    BORDER-LEFT: #a7dcca 1px solid;
+    BORDER-RIGHT: #eef8f5 1px solid;
+    BORDER-TOP: #a7dcca 1px solid;
+    PADDING-LEFT: 5px;
+    VERTICAL-ALIGN: top
+}
+TH.style1
+{
+    BACKGROUND-COLOR: #d8efe8;
+    BORDER-BOTTOM: #eef8f5 2px solid;
+    BORDER-LEFT: #a7dcca 1px solid;
+    BORDER-RIGHT: #eef8f5 1px solid;
+    BORDER-TOP: #a7dcca 1px solid;
+    COLOR: #006666
+}
+TD
+{
+    COLOR: #000000;
+    FONT-SIZE: x-small
+}
+A.menu:link
+{
+    COLOR: maroon;
+    FONT-SIZE: 11px;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+A.menu:visited
+{
+    COLOR: maroon;
+    FONT-SIZE: 11px;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+A.menu:active
+{
+    COLOR: navy;
+    FONT-SIZE: 11px;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: underline
+}
+A.menu:hover
+{
+    COLOR: navy;
+    FONT-SIZE: 11px;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: underline
+}
+A.portfolio:link
+{
+    COLOR: #d7e9f2;
+    FONT-SIZE: 11px;
+    FONT-STYLE: normal;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+A.portfolio:visited
+{
+    COLOR: #d7e9f2;
+    FONT-SIZE: 11px;
+    FONT-STYLE: normal;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+A.portfolio:active
+{
+    COLOR: #d7e9f2;
+    FONT-SIZE: 11px;
+    FONT-STYLE: normal;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+A.portfolio:hover
+{
+    COLOR: #90b3c4;
+    FONT-SIZE: 11px;
+    TEXT-DECORATION: none
+}
+LI.portfolio
+{
+    COLOR: #d7e9f2;
+    FONT-SIZE: 11px;
+    FONT-STYLE: normal;
+    FONT-WEIGHT: bold
+}
+.menubkg
+{
+    BACKGROUND-IMAGE: url(../images/volleyball-main.jpg);
+    BACKGROUND-POSITION: right center;
+    BACKGROUND-REPEAT: repeat-y
+}
+.LeftNavOff
+{
+    BACKGROUND: #cccccc;
+    BORDER-BOTTOM: gray 1px solid;
+    BORDER-LEFT: white 1px solid;
+    BORDER-RIGHT: gray 1px solid;
+    BORDER-TOP: white 1px solid;
+    COLOR: black;
+    CURSOR: hand;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 11px;
+    FONT-WEIGHT: bold;
+    HEIGHT: 0pt;
+    LETTER-SPACING: -0.1pt;
+    LINE-HEIGHT: 20px;
+    MARGIN: 2px 3px;
+    PADDING-BOTTOM: 0px;
+    PADDING-LEFT: 10px;
+    PADDING-RIGHT: 3px;
+    PADDING-TOP: 0px;
+    TEXT-DECORATION: none
+}
+.LeftNavUp
+{
+    BACKGROUND: #cccccc;
+    BORDER-BOTTOM: gray 1px solid;
+    BORDER-LEFT: white 1px solid;
+    BORDER-RIGHT: gray 1px solid;
+    BORDER-TOP: white 1px solid;
+    COLOR: black;
+    CURSOR: hand;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 11px;
+    FONT-WEIGHT: bold;
+    HEIGHT: 0pt;
+    LETTER-SPACING: -0.1pt;
+    LINE-HEIGHT: 20px;
+    MARGIN: 2px 3px;
+    PADDING-BOTTOM: 0px;
+    PADDING-LEFT: 10px;
+    PADDING-RIGHT: 3px;
+    PADDING-TOP: 0px;
+    TEXT-DECORATION: none
+}
+.LeftNavDown
+{
+    BACKGROUND: #cccccc;
+    BORDER-BOTTOM: white 1px solid;
+    BORDER-LEFT: gray 1px solid;
+    BORDER-RIGHT: white 1px solid;
+    BORDER-TOP: gray 1px solid;
+    COLOR: black;
+    CURSOR: hand;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 11px;
+    FONT-WEIGHT: bold;
+    LETTER-SPACING: -0.1pt;
+    LINE-HEIGHT: 20px;
+    MARGIN: 2px 3px;
+    PADDING-BOTTOM: 0px;
+    PADDING-LEFT: 10px;
+    PADDING-RIGHT: 3px;
+    PADDING-TOP: 0px;
+    TEXT-DECORATION: none
+}
